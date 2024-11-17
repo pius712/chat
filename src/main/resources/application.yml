@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: chat
+
+jwt:
+  secret: lsadkfjladsjlsdakjfakldsjflaksjdflkadjslkfjld
+  expiration: 86400000
+  issuer: pius
